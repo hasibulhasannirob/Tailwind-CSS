@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasibulhasannirob/Tailwind-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasibulhasannirob/Tailwind-CSS/issues"
+  },
+  "homepage": "https://github.com/hasibulhasannirob/Tailwind-CSS#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
