@@ -13,3 +13,9 @@
 <p align="center">
   <img width="600" height="400" src="https://github.com/hasibulhasannirob/Tailwind-CSS/blob/main/Screenshots/hover.gif?raw=true">
 </p>
+
+# Simple Ecommerce Design 
+
+<p align="center">
+  <img width="645" height="420" src="https://github.com/hasibulhasannirob/Tailwind-CSS/blob/main/Screenshots/ecommerce.png?raw=true">
+</p>
